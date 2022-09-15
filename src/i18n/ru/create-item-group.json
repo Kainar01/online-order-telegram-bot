@@ -1,0 +1,9 @@
+{
+  "saved": "Вы успешно создали группу товаров *{itemGroupTitle}*. Чтобы добавить товары в эту группу, отправьте сообщение следующим образом:\n\ntitle - unitprice price quantity\ntitle - unitprice price quantity\n\ntitle - Название товара\nunitprice - оптовая цена\nprice - розничная цена\nquantity - количество\n\nВот пример:",
+  "items-add-example": "Сникерс - 125 250 10\nКола 0.5 - 150 350 5",
+  "items-added": "Добавили следующие товары в группу *{itemGroupTitle}*: *{itemsTitle}*",
+  "confirm": "Название группы товаров будет *{itemGroupTitle}*.\n\nПодтверждаете?",
+  "enter-title": "Введите название группы товаров:",
+  "invalid-title": "Невалидный название группы товаров, введите еще раз",
+  "invalid-items": "Невалидный формат, введите еще раз"
+}
